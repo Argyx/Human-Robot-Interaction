@@ -65,6 +65,18 @@ Ensure you have Python 3.x installed and the following required libraries:
 4. **Stopping the Program**:
     - Press the `Q` key in the preview window to safely exit and stop data recording.
 
+### Visualization Tool (vis.py)
+
+The visualization tool allows you to replay the previously captured video with pose landmarks overlaid. This is useful for reviewing data after collection.
+
+#### Usage:
+
+1. Save the visualization code to a file named `vis.py`.
+2. Place `vis.py` in the same directory as your test folders.
+3. Run `vis.py` and enter the directory name for the test data you wish to visualize.
+4. Press the `Q` key in the preview window to exit.
+
+
 ### Troubleshooting
 
 - Ensure the RealSense camera is connected and recognized by the system.
