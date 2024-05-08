@@ -69,5 +69,3 @@ Ensure you have Python 3.x installed and the following required libraries:
 
 - Ensure the RealSense camera is connected and recognized by the system.
 - Update the Intel RealSense SDK if data streams are unavailable.
-
-Feel free to modify and extend this program for further use cases.
