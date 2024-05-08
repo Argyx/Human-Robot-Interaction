@@ -12,7 +12,7 @@ This project captures and analyzes human pose data using the RealSense camera an
 
 ### Prerequisites
 
-Ensure you have Python 3.x installed and the following required libraries:
+Ensure you are runnign a Debian based or Ubunty (20.4) system and have Python 3.x installed and the following required libraries:
 
 1. [OpenCV](https://pypi.org/project/opencv-python/) for image processing:
     ```bash
